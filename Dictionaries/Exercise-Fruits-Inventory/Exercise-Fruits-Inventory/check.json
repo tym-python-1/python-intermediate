@@ -1,0 +1,30 @@
+{
+    "title": "Exercise: Fruits Inventory",
+    "description": "",
+    "filepath": "Dictionaries/Exercise-Fruits-Inventory/Exercise-Fruits-Inventory.zip",
+    "author": "",
+    "timeCreated": "2024-03-30T15:16:07.193Z",
+    "timeUpdated": "2024-04-18T09:02:42.634Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "test 1",
+            "input": "banana\napple\npineapple\norange",
+            "output": "The first fruit in the list is banana\nThe last fruit in the list is orange\nBANANA\nPINEAPPLE\nORANGE",
+            "type": "match",
+            "timeCreated": "2024-03-30T15:16:07.204Z",
+            "timeUpdated": "2024-03-30T15:16:07.204Z"
+        },
+        {
+            "name": "test 2",
+            "input": "guava\ncherry\ndurian\njackfruit",
+            "output": "The first fruit in the list is guava\nThe last fruit in the list is jackfruit\nGUAVA\nDURIAN\nJACKFRUIT",
+            "type": "match",
+            "timeCreated": "2024-03-30T15:16:07.204Z",
+            "timeUpdated": "2024-03-30T15:16:07.204Z"
+        }
+    ],
+    "unitTests": []
+}

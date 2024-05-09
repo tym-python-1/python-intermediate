@@ -1,0 +1,30 @@
+{
+    "title": "Exercise: Grades",
+    "description": "",
+    "filepath": "Reading-and-Writing-to-Files/Exercise-Grades/Exercise-Grades.zip",
+    "author": "",
+    "timeCreated": "2024-04-23T15:53:21.678Z",
+    "timeUpdated": "2024-04-24T04:02:07.418Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "test 1",
+            "input": "banana\napple\npineapple\norange",
+            "output": "The first fruit in the list is banana\nThe last fruit in the list is orange\nBANANA\nPINEAPPLE\nORANGE",
+            "type": "match",
+            "timeCreated": "2024-04-23T15:53:21.692Z",
+            "timeUpdated": "2024-04-23T15:53:21.692Z"
+        },
+        {
+            "name": "test 2",
+            "input": "guava\ncherry\ndurian\njackfruit",
+            "output": "The first fruit in the list is guava\nThe last fruit in the list is jackfruit\nGUAVA\nDURIAN\nJACKFRUIT",
+            "type": "match",
+            "timeCreated": "2024-04-23T15:53:21.692Z",
+            "timeUpdated": "2024-04-23T15:53:21.692Z"
+        }
+    ],
+    "unitTests": []
+}

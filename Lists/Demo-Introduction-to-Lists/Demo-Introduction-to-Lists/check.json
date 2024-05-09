@@ -1,0 +1,38 @@
+{
+    "title": "[Demo] Introduction to Lists",
+    "description": "",
+    "filepath": "Lists/Demo-Introduction-to-Lists/Demo-Introduction-to-Lists.zip",
+    "author": "",
+    "timeCreated": "2024-02-29T03:03:35.172Z",
+    "timeUpdated": "2024-03-21T04:33:31.126Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "Jack",
+            "input": "Jack",
+            "output": "What is your name? Hello Jack",
+            "type": "exact",
+            "timeCreated": "2024-02-29T03:03:35.180Z",
+            "timeUpdated": "2024-02-29T03:03:35.180Z"
+        },
+        {
+            "name": "Thomas",
+            "input": "Thomas",
+            "output": "What is your name? Hello Thomas",
+            "type": "exact",
+            "timeCreated": "2024-02-29T03:03:35.180Z",
+            "timeUpdated": "2024-02-29T03:03:35.180Z"
+        },
+        {
+            "name": "asdfOKASD<W!E#($*&!K",
+            "input": "asdfOKASD<W!E#($*&!K",
+            "output": "What is your name? Hello asdfOKASD<W!E#($*&!K",
+            "type": "exact",
+            "timeCreated": "2024-02-29T03:03:35.180Z",
+            "timeUpdated": "2024-02-29T03:03:35.180Z"
+        }
+    ],
+    "unitTests": []
+}

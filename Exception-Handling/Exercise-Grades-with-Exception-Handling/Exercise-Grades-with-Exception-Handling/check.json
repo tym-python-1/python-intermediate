@@ -1,0 +1,30 @@
+{
+    "title": "Exercise: Grades with Exception Handling",
+    "description": "",
+    "filepath": "Exception-Handling/Exercise-Grades-with-Exception-Handling/Exercise-Grades-with-Exception-Handling.zip",
+    "author": "",
+    "timeCreated": "2024-04-24T07:07:19.233Z",
+    "timeUpdated": "2024-04-25T06:27:58.135Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "test 1",
+            "input": "banana\napple\npineapple\norange",
+            "output": "The first fruit in the list is banana\nThe last fruit in the list is orange\nBANANA\nPINEAPPLE\nORANGE",
+            "type": "match",
+            "timeCreated": "2024-04-24T07:07:19.245Z",
+            "timeUpdated": "2024-04-24T07:07:19.245Z"
+        },
+        {
+            "name": "test 2",
+            "input": "guava\ncherry\ndurian\njackfruit",
+            "output": "The first fruit in the list is guava\nThe last fruit in the list is jackfruit\nGUAVA\nDURIAN\nJACKFRUIT",
+            "type": "match",
+            "timeCreated": "2024-04-24T07:07:19.245Z",
+            "timeUpdated": "2024-04-24T07:07:19.245Z"
+        }
+    ],
+    "unitTests": []
+}

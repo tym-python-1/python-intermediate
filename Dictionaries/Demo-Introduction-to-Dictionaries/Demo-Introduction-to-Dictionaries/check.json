@@ -1,0 +1,38 @@
+{
+    "title": "[Demo] Introduction to Dictionaries",
+    "description": "",
+    "filepath": "Dictionaries/Demo-Introduction-to-Dictionaries/Demo-Introduction-to-Dictionaries.zip",
+    "author": "",
+    "timeCreated": "2024-03-15T07:28:51.772Z",
+    "timeUpdated": "2024-04-07T07:12:41.764Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "Jack",
+            "input": "Jack",
+            "output": "What is your name? Hello Jack",
+            "type": "exact",
+            "timeCreated": "2024-03-15T07:28:51.782Z",
+            "timeUpdated": "2024-03-15T07:28:51.782Z"
+        },
+        {
+            "name": "Thomas",
+            "input": "Thomas",
+            "output": "What is your name? Hello Thomas",
+            "type": "exact",
+            "timeCreated": "2024-03-15T07:28:51.782Z",
+            "timeUpdated": "2024-03-15T07:28:51.782Z"
+        },
+        {
+            "name": "asdfOKASD<W!E#($*&!K",
+            "input": "asdfOKASD<W!E#($*&!K",
+            "output": "What is your name? Hello asdfOKASD<W!E#($*&!K",
+            "type": "exact",
+            "timeCreated": "2024-03-15T07:28:51.782Z",
+            "timeUpdated": "2024-03-15T07:28:51.782Z"
+        }
+    ],
+    "unitTests": []
+}

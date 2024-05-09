@@ -1,0 +1,38 @@
+{
+    "title": "Exercise 1: Input and Output",
+    "description": "",
+    "filepath": "Exercise-1-Input-and-Output/Exercise-1-Input-and-Output.zip",
+    "author": "",
+    "timeCreated": "2024-02-02T04:55:03.079Z",
+    "timeUpdated": "2024-02-29T03:03:18.185Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "Jack",
+            "input": "Jack",
+            "output": "What is your name? Hello Jack",
+            "type": "exact",
+            "timeCreated": "2024-02-02T04:55:03.089Z",
+            "timeUpdated": "2024-02-02T04:55:03.089Z"
+        },
+        {
+            "name": "Thomas",
+            "input": "Thomas",
+            "output": "What is your name? Hello Thomas",
+            "type": "exact",
+            "timeCreated": "2024-02-02T04:55:03.089Z",
+            "timeUpdated": "2024-02-02T04:55:03.089Z"
+        },
+        {
+            "name": "asdfOKASD<W!E#($*&!K",
+            "input": "asdfOKASD<W!E#($*&!K",
+            "output": "What is your name? Hello asdfOKASD<W!E#($*&!K",
+            "type": "exact",
+            "timeCreated": "2024-02-02T04:55:03.089Z",
+            "timeUpdated": "2024-02-02T04:55:03.089Z"
+        }
+    ],
+    "unitTests": []
+}
