@@ -18,7 +18,8 @@ usernames = [
 # Remove the username 'mark2023' from the set
 
 
-# Convert and print the set back into a list
+# Convert and print the set back into a list and sort the list in ascending order
+
 
   
 

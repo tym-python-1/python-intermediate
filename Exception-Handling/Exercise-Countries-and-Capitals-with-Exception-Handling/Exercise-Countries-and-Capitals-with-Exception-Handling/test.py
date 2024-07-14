@@ -1,9 +1,16 @@
 import subprocess
 import json
+import platform
 
 def run_test(input_data):
     # Run main.py as a subprocess
-    process = subprocess.Popen(['python', 'main.py'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    if platform.system() == "Windows":
+        python_interpreter = 'python'
+    else:
+        python_interpreter = 'python3'
+
+    # Run main.py as a subprocess
+    process = subprocess.Popen([python_interpreter, 'main.py'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
 
     # Pass input data to main.py
     stdout, stderr = process.communicate(input_data)
